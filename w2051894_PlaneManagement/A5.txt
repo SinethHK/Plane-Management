@@ -1,0 +1,8 @@
+Ticket Information:
+Row: A
+Seat: 5
+Price: £200.0
+Person Information:
+Name: sineth
+Surname: hk
+Email: 435
